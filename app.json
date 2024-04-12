@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Lab1-Phan2",
+    "slug": "Lab1-Phan2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
